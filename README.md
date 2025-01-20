@@ -49,5 +49,5 @@ Transformei os dados em tabelas otimizadas para consultas.
 ## Visualizações no Power BI
 Importei os dados do BigQuery para o Power BI, e realizei a construção da visão com os principais KPIs pedidos no teste: 
 
-## Préview do dashboard:
+## Prévia do dashboard:
 ![model](src/dashboard_vfinal.png)
